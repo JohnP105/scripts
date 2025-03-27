@@ -1,2 +1,9 @@
 # DS Store
 .DS_store
+
+
+# venv
+/venv
+
+# Output
+/*/output
